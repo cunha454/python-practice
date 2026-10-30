@@ -13,5 +13,5 @@ Repositório dedicado à prática e ao aprimoramento dos meus conhecimentos em *
 
 Os exercícios deste repositório são provenientes do seguinte site:
 
-[PYnative — Python Programming](https:pynative.com/)
+[PYnative — Python Programming](https://pynative.com)
 
