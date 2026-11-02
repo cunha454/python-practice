@@ -21,3 +21,13 @@ A cada exercício concluído, será adicionada uma descrição explicando o que 
 09. **[Execício 09](09_exercicio.py)** → Uma palavra é escolhida e, por meio de um laço `for` com `in`, cada letra é verificada para saber se pertence ao grupo de vogais. Ao final, a quantidade total de vogais é exibida.
 
 10. **[Execício 10](10_exercicio.py)** → Uma sequência de números é digitada e, com o uso das funções `max()` e `min()`, é possível descobrir o maior e o menor valor da sequência, sem precisar fazer um laço.
+
+11. **[Execício 11](11_exercicio.py)** → Uma sequência de números repetidos é escolhida e, por meio do `set()` tranforma a lista em conjunto, consequentemente removendo as duplicidades.
+
+12. **[Execício 12](12_exercicio.py)** → Retorna True se o primeiro elemento `[0]` for igual ao último `[-1]`. Caso contrário, retorna False.
+
+13. **[Execício 13](13_exercicio.py)** → Verifica quais elementos de uma lista são divisível por 5, usando `%` em laço.
+
+14. **[Execício 14](14_exercicio.py)** → Analiza quantas vezes determinada palavra foi mencionda em uma frase usando o `count()`.
+
+15. **[Execício 15](15_exercicio.py)** → Cria um laço de repetição onde cada número é repetido uma quantidade de vezes igual ao seu próprio valor.
