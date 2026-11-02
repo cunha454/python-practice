@@ -31,3 +31,13 @@ A cada exercício concluído, será adicionada uma descrição explicando o que 
 14. **[Execício 14](14_exercicio.py)** → Analiza quantas vezes determinada palavra foi mencionda em uma frase usando o `count()`.
 
 15. **[Execício 15](15_exercicio.py)** → Cria um laço de repetição onde cada número é repetido uma quantidade de vezes igual ao seu próprio valor.
+
+16. **[Execício 16](16_exercicio.py)** → Verifica se o número é um palíndromo convertendo-o em string usando `str()` e invertendo-o com `[::-1]`.
+
+17. **[Execício 17](17_exercicio.py)** → Cria uma nova lista combinando os números ímpares da primeira lista com os números pares da segunda.
+
+18. **[Execício 18](18_exercicio.py)** → Inverte um número utilizando apenas da matemática, extraindo o último algarismo por meio do resto da divisão e removendo-o com divisão inteira até que o número chegue a zero.
+
+19. **[Execício 19](19_exercicio.py)** → Calcula o imposto de renda com base no valor da renda informada, utilizando as estruturas condicionais `if`, `elif` e `else`.
+
+20. **[Execício 20](20_exercicio.py)** → Cria uma tabuada utilizando laços de repetição aninhados. Utilizagit o parâmetro `end="\t"` da função `print()` para organizar em tabulações.
