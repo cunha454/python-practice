@@ -41,3 +41,15 @@ A cada exercício concluído, será adicionada uma descrição explicando o que 
 19. **[Execício 19](19_exercicio.py)** → Calcula o imposto de renda com base no valor da renda informada, utilizando as estruturas condicionais `if`, `elif` e `else`.
 
 20. **[Execício 20](20_exercicio.py)** → Cria uma tabuada utilizando laços de repetição aninhados. Utilizagit o parâmetro `end="\t"` da função `print()` para organizar em tabulações.
+
+21. **[Execício 21](21_exercicio.py)** → É criado um laço de repetição em que, a cada ciclo, o número diminui em 1 até chegar a zero, formando uma pirâmide invertida.
+
+22. **[Execício 22](22_exercicio.py)** → É usado um laço de repetição para fazer o processo de exponenciação manualmente, sem usar o operador `**`, que já faz sozinho.
+
+23. **[Execício 23](23_exercicio.py)** → Verifica se um número é um palíndromo utilizando operações matemáticas, seguindo a mesma lógica do exercício 18, e comparando o resultado com o número original.
+
+24. **[Execício 24](24_exercicio.py)** → Gera a sequência de Fibonacci até atingir o valor informado, utilizando uma lista que armazena os números e adiciona novos elementos a partir da soma dos dois últimos valores da sequência.
+
+25. **[Execício 25](25_exercicio.py)** → Verifica se o ano informado é um ano bissexto. Com base no fato de que um ano bissexto precisa ser divisível por 4, e não pode ser divisível por 100, a não ser que seja divisível por 400.
+
+
